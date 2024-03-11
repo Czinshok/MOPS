@@ -1,7 +1,7 @@
 {
 	"env": [
 		{
-			"MOPS": "C:/Users/Henry/Projects/VFX/MOPS"
+			"MOPS": "C:/Users/Miche/Documents/GitHub/MOPS"
 		},
 		{
 			"HOUDINI_PYTHONWARNINGS": "ignore"
